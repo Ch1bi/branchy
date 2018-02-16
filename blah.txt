@@ -1,2 +1,6 @@
 asfdsa
+<<<<<<< HEAD
 Tre is not cool
+=======
+Tre is cool
+>>>>>>> master
